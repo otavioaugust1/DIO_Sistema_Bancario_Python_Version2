@@ -20,7 +20,7 @@ O sistema oferece as seguintes funcionalidades:
 1. Clone o repositório para sua máquina local:
 
 ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/otavioaugust1/DIO_Sistema_Bancario_Python_Version2.git
 ```
 
 
